@@ -6,7 +6,6 @@ public class CursorScript : MonoBehaviour
 {
     public Texture2D[] cursors;
 
-    // Start is called before the first frame update
     void Start()
     {
         DefaultCursor();  
